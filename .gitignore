@@ -14,4 +14,5 @@ Tests/**/obj/
 Tests/**/*.csproj.user
 Tests/**/*.suo
 *.trx
-Source/TestResults/
+Source/TestResults/.vs
+Source/.vs
