@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>$id$</id>
+    <id>Fuse.Svg</id>
     <version>$version$</version>
     <title>$title$</title>
     <authors>$author$</authors>
     <owners>$author$</owners>
-    <description>TaxModel/PAW altered implementation of the Svg library</description>
+    <description>Fusetools build of Svg library</description>
   </metadata>
 </package>
